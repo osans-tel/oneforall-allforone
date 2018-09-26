@@ -21,9 +21,8 @@
 10. Go back to `develop` branch
 11. Merge `feature-<firstnamelastname>` with `develop`
 12. Delete `feature-<firstnamelastname>`
-10. Push your changes to your own version (We will push the `develop` branch)
+13. Push your changes to your own version (We will push the `develop` branch)
 
 ## Third Phase : New Central Repo Update
 1. Go to your GitHub forked repo
 2. Make a pull request
-
