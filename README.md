@@ -13,7 +13,7 @@
 2. Switch to the `develop` branch
 3. Show branches
 4. Create a new branch `feature-<firstnamelastname>`
-5. Now add a text file and name it "<firstnamelastname.txt"
+5. Now add a text file and name it <firstnamelastname.txt
 6. See status
 7. Add changes
 8. See status again
